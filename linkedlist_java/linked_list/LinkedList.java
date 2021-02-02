@@ -67,6 +67,7 @@ public class LinkedList {
     boolean continue_loop = true;
     BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
     LinkedList stack = new LinkedList();
+    System.out.print("Main Metod is starting here");
     while(continue_loop) {
       try {
         System.out.println("\nWhat do you want to do in the Stack using LinkedList?");
