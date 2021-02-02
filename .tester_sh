@@ -1,0 +1,3 @@
+#!/bin/bash
+
+bash .eval/tester.sh linkedlist_java linked_list LinkedList.java .gitignore .assessment remote validate .git
